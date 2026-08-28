@@ -1,6 +1,7 @@
 {
   "name": "screenreader-bot",
   "version": "1.0.0",
+  "type": "module",
   "description": "Telegram Bot for ScreenReader",
   "main": "index.js",
   "scripts": {
